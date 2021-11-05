@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(45deg,black, crimson);
+    border-radius: none;
+    color: white;
+    height: 100vh;
+
+} 
+button{
+    background-color:white;
+    border: none;
+    height: 2.em;
+    margin: 5px;
+    border-radius: 15px;              
+    cursor: pointer;         
+}
+
+div{
+    text-align: center;
+    place-items: center;
+}
+p{
+    font-size: 35px;
+}
